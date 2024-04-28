@@ -11,16 +11,17 @@ body {
 }
 
 header {
-    background-color: #00B6D5;
-    color: white;
+    background-color: #CF9FFF;
+    color: black;
     text-align: center;
     padding: 10px;
+
 }
 
 nav a {
     margin: 0 15px;
     text-decoration: none;
-    color: white;
+    color: black;
     font-weight: bold;
 }
 
@@ -51,4 +52,3 @@ ul {
 
 ul li {
     margin-bottom: 10px;
-}
